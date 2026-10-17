@@ -240,9 +240,6 @@ The `PitWallWindow` base class handles all telemetry stream connection logic aut
 - Adjust telemetry processing in `src/f1_data.py`.
 - Create custom telemetry windows using `PitWallWindow` base class (see above).
 
-## Contributing
-
-There have been several contributions from the community that have helped enhance this project. I have added a [contributors.md](./contributors.md) file to acknowledge those who have contributed features and improvements.
 
 If you would like to contribute, feel free to:
 
